@@ -1,0 +1,156 @@
+{
+  "basics": {
+    "name": "Fernando Silva Trincado",
+    "label": "Estudiante de Ingeniería Informática y Desarrollador Fullstack",
+    "image": "/me.webp",
+    "email": "fernandosilvot@gmail.com",
+    "phone": "+56 9 5905 6682",
+    "url": "https://fernandosilvot.github.io",
+    "summary": "Estudiante en Duoc UC San Joaquín, apasionado por la programación y la tecnología. Curso Analista Programador Computacional y planeo cambiar a Ingeniería en Informática. Actualmente, realizo proyectos para la nube.",
+    "location": {
+      "address": "",
+      "postalCode": "950000",
+      "city": "Maipu, Santiago",
+      "countryCode": "CL",
+      "region": "Chile"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "fernando-silvo-t",
+        "url": "https://www.linkedin.com/in/fernando-silvo-t/"
+      },
+      {
+        "network": "GitHub",
+        "username": "fernandosilvot",
+        "url": "https://github.com/fernandosilvot/"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "Lider CITT",
+      "position": "Lider del Centro de Innovación y Transferencia Tecnológica de Duoc UC San Joaquín",
+      "url": "https://fernandosilvot.github.io",
+      "startDate": "2024-03-15",
+      "endDate": null,
+      "summary": "Líder del CITT en Duoc UC San Joaquín, inspirando y guiando a mis compañeros en proyectos innovadores. Responsable de coordinar y apoyar la ejecución de proyectos, brindar liderazgo a los alumnos ayudantes, y colaborar estrechamente con el personal del CITT para asegurar el éxito de nuestras iniciativas. Comprometido con la innovación en la educación y emocionado de liderar a mis compañeros hacia nuestros objetivos.",
+      "highlights": [
+        ""
+      ]
+    }
+  ],
+  "education": [{
+    "institution": "Duoc UC San Joaquín",
+    "url": "https://www.duoc.cl/",
+    "area": "Ingeniero de Software",
+    "studyType": "Ingeniería",
+    "startDate": "2023-03-01",
+    "endDate": null,
+    "score": "4.0",
+    "courses": [
+      ""
+    ]
+  },
+  {
+    "institution": "Instituto Profesional AIEP",
+    "url": "https://www.aiep.cl/",
+    "area": "Programador y analista de sistemas",
+    "studyType": "Ingeniería y Construcción",
+    "startDate": "2022-03-01",
+    "endDate": "2022-12-27",
+    "score": "6.8",
+    "courses": [
+      "Gestión de Proyectos",
+      "Desarrollo de Software",
+      "Educación",
+      "Investigación",
+      "Capacidad de Análisis",
+      "Base de Datos relacionales",
+      "Revisión de Código"
+    ]
+  }
+],
+  "skills": [
+    {
+      "name": "HTML",
+      "level": "Medio",
+      "keywords": [
+        "Desarrollo Web", "Frontend"
+      ]
+    },
+    {
+      "name": "CSS",
+      "level": "Medio",
+      "keywords": [
+        "Desarrollo Web", "Frontend"
+      ]
+    },
+    {
+      "name": "JavaScript",
+      "level": "Medio",
+      "keywords": [
+        "Desarrollo Web", "Frontend", "Backend", "Fullstack"
+      ]
+    },
+    {
+      "name": "Node",
+      "level": "Medio",
+      "keywords": [
+        "Desarrollo Web", "Backend", "JavaScript", "Servidor"
+      ]
+    },
+    {
+      "name": "Microsoft Sql Server",
+      "level": "Medio",
+      "keywords": [
+        "Bases de Datos", "SQL", "Almacenamiento de Datos", "Backend"
+      ]
+    },
+    {
+      "name": "Git",
+      "level": "Principiante-Medio",
+      "keywords": [
+        "Control de Versiones", "Colaboración", "Código Fuente"
+      ]
+    },
+    {
+      "name": "GitHub",
+      "level": "Principiante-Medio",
+      "keywords": [
+        "Control de Versiones", "Colaboración", "Código Fuente", "Git"
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "name": "Portfolio",
+      "isActive": true,
+      "description": "Mi portafolio personal",
+      "highlights": [
+        "Desarrollado con HTML, CSS y JavaScript",
+        "En desarrollo"
+      ],
+      "url": "https://fernandosilvot.github.io",
+      "github": "https://github.com/fernandosilvot/fernandosilvot.github.io"
+    },
+    {
+      "name": "Portfolio Minimalista",
+      "description": "Mi portafolio personal minimalista",
+      "highlights": [
+        "Desarrollado con Astro",
+        "En desarrollo"
+      ],
+      "url": "https://github.com/fernandosilvot/minimalist-porfolio-json"
+    },
+    {
+      "name": "WWJS_Bot",
+      "description": "bot de whatsapp para la comunidad basico",
+      "highlights": [
+        "Desarrollado con Node.js",
+        "Terminado Version 1.0"
+      ],
+      "url": "https://github.com/fernandosilvot/WWJS_Bot"
+    }
+  ]
+}
